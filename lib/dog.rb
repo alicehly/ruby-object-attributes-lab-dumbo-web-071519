@@ -26,4 +26,4 @@ class Dog
   
 end
 
-
+Dog.name
