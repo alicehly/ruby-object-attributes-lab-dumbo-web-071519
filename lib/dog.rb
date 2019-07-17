@@ -1,5 +1,5 @@
 class Dog 
-  class Person 
+
     def initialize(name)
     @breed = breed
   end
@@ -11,7 +11,7 @@ class Dog
   def breed=(new_breed)
     @breed = new_breed
   end
-end
+
   
 end
 
