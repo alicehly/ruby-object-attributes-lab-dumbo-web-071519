@@ -25,8 +25,7 @@ class Dog
     @breed = new_breed
   end
 end
-  
-end
+
 
 Dog.name
 Dog.breed
