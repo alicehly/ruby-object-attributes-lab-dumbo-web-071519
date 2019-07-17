@@ -25,5 +25,5 @@ class Person
     @job = job
   end 
   
-  # Person.job
+  Person.job
 end
