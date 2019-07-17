@@ -11,6 +11,8 @@ class Person
     @name = new_name
   end
   
+  Person.name
+  
   def initialize(job)
     @job = job
   end
@@ -22,4 +24,6 @@ class Person
   def job=(new_job)
     @job = job
   end 
+  
+  Person.job
 end
